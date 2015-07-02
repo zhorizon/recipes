@@ -1,0 +1,7 @@
+1. Rice
+2. Vegitable
+3. Meat
+4. Fruit
+5. Drink
+
+^_^
